@@ -1,0 +1,11 @@
+*/*/-----------------------------------------------------/*/*
+- Welcome to the World of Network Security @ UMASS Lowell!  -
+- NAME: NEHALI ACHARYA					    -
+- COURSE: Introduction to Computer and Network Security	    -
+- DUE DATE: 03.27.2016				            -
+-          <<<<<<<<<<<< PROJECT >>>>>>>>>>>>>		    -
+- MASTER'S MAJOR: COMPUTER SCIENCE (UMASS LOWELL)	    -
+- B.S: COMPUTER SCIENCE AND ENGINEERING (NIT JAIPUR, INDIA) -
+- D.O.B: 03.30.1994					    -
+- Area of Interest: NETWORKING AND NETWORK SECURITY	    -
+*/*/-----------------------------------------------------/*/*
